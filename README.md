@@ -30,7 +30,9 @@ function App() {
 ```
 
 `<Root />` - parent component that displays on every page
+
 `<Outlet />` - shows where to  display child components within `<Root />`
+
 `<Route index element={...}/>` - default child route
 
 ## Links
